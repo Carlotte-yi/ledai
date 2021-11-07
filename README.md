@@ -41,3 +41,18 @@
 #### HTTPClient: 基于Http协议的客户端，用来实现远程调用
 
 #### Spring Task：定时任务
+
+## 模块内容
+
+#### common：存放一些各组件都会使用的服务
+
+#### service-base：基础服务模块
+
+#### service-core：核心服务模块，包括主要的接口功能和数据库的CRUD
+
+#### service-gateway：服务网关
+
+#### service-oss：OSS文件存储对象
+
+#### service-sms：短信验证服务
+
